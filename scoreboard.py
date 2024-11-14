@@ -1,8 +1,8 @@
 """
-Name: card_library_app.py
+Name: guessing_game_app.py
 Author: Andrew Peterson
 Date: 10/23/2024
-Purpose: store game scores
+Purpose: play a game and store game scores
 """
 
 import highscore_database
