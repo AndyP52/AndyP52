@@ -84,13 +84,13 @@ def game():
     root.title("Guessing Game")
     label = tk.Label(root, text="Guess a number between 1 and 100.") 
     label.pack(pady=10)
-    label = tk.Label(root, text="Enter your Name:") 
-    label.pack(pady=10) 
+    label2 = tk.Label(root, text="Enter your Name:") 
+    label2.pack(pady=10) 
     entry = tk.Entry(root) 
     entry.pack(pady=10)
     button = tk.Button(root, text="Submit", command=show_input)
     button.pack(pady=10)
-    plyr_name = entry
+    plyr_name = entry.get()
     plyr_date = date.today()
 
     def check_number():
@@ -124,11 +124,13 @@ def game():
             return 0
 
     while True:
-        entry = tk.Entry(root) 
-        entry.pack(pady=10)
-        button = tk.Button(root, text="Guess", command=check_number) 
-        button.pack(pady=10)
-        guess = int(input(entry))
+        label3 = tk.Label(root, text="Enter your Guess:") 
+        label3.pack(pady=10)
+        entry2 = tk.Entry(root) 
+        entry2.pack(pady=10)
+        button2 = tk.Button(root, text="Guess", command=check_number) 
+        button2.pack(pady=10)
+        guess = entry2.get()
         attempts += 1
        
 
