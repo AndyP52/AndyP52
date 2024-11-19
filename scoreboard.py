@@ -108,7 +108,7 @@ class GuessingGame:
 
         self.lbl_result = Label(
             self.main_frame,
-            width=10,
+            width=100,
             relief=GROOVE,
             anchor=E
         )
@@ -145,37 +145,34 @@ class GuessingGame:
         self.root.bind("<KP_Enter>", self.check_numbers)
 
     def check_numbers(self, *args):
-        while True:
-            self.attempts = 1 + self.attempts
-            self.guess = int(self.entry.get())
-            if self.guess > self.number_to_guess:
-                self.lbl_result.configure(text=f"{self.guess} is too high")
-                self.points -= 10
-                self.lbl_points.configure(text=f"{self.points}")
-            elif self.guess < self.number_to_guess:
-                self.lbl_result.configure(text=f"{self.guess} is too low")
-                self.points -= 10
-                self.lbl_points.configure(text=f"{self.points}")
-            else:
-                self.lbl_result.configure(f"Congratulations! You've guessed the right number in {self.attempts} attempts.")
-                self.lbl_points.configure(text=f"{self.points}")
-                plyr_score = self.points
+        self.attempts = 1 + self.attempts
+        self.guess = int(self.entry.get())
+        if self.guess > self.number_to_guess:
+            self.lbl_result.configure(text=f"{self.guess} is too high")
+            self.points -= 10
+            self.lbl_points.configure(text=f"{self.points}")
+        elif self.guess < self.number_to_guess:
+            self.lbl_result.configure(text=f"{self.guess} is too low")
+            self.points -= 10
+            self.lbl_points.configure(text=f"{self.points}")
+        else:
+            self.lbl_result.configure(text=f"Congratulations! You've guessed the right number in {self.attempts} attempts.")
+            self.lbl_points.configure(text=f"{self.points}")
+            plyr_score = self.points
 
-                highscore_database.insert_score(
-                    self.plyr_name,
-                    plyr_score,
-                    self.plyr_date
-                )
-                self.root.destroy()
+            highscore_database.insert_score(
+                self.plyr_name,
+                plyr_score,
+                self.plyr_date
+            )
 
-            if self.points <= 0:
-                self.lbl_result.configure("Sorry, you've run out of points. Better luck next time!")
-                plyr_score = 0
-                highscore_database.insert_score(
-                    self.plyr_name,
-                    plyr_score,
-                    self.plyr_date
-                )
-                self.root.destroy()
+        if self.points <= 0:
+            self.lbl_result.configure(text="Sorry, you've run out of points. Better luck next time!")
+            plyr_score = 0
+            highscore_database.insert_score(
+                self.plyr_name,
+                plyr_score,
+                self.plyr_date
+            )
 
 main()
