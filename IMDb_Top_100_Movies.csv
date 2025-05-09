@@ -1,201 +1,101 @@
-Title,Year,IMDb Rating,Genre 
-
-The Shawshank Redemption,1994,9.3,Drama 
-
-The Godfather,1972,9.2,Crime, Drama 
-
-The Dark Knight,2008,9.0,Action, Crime, Drama 
-
-Schindler's List,1993,9.0,Biography, Drama, History 
-
-12 Angry Men,1957,9.0,Crime, Drama 
-
-The Lord of the Rings: The Return of the King, 2003, 8.9, Action, Adventure, Drama 
-
-Pulp Fiction, 1994, 8.9, Crime, Drama 
-
-The Lord of the Rings: The Fellowship of the Ring, 2001, 8.8, Action, Adventure, Drama 
-
-The Good, the Bad and the Ugly, 1966, 8.8, Western 
-
-Forrest Gump, 1994, 8.8, Drama, Romance 
-
-Inception, 2010, 8.8, Action, Adventure, Sci-Fi 
-
-The Lord of the Rings: The Two Towers, 2002, 8.7, Action, Adventure, Drama 
-
-Star Wars: Episode V - The Empire Strikes Back, 1980, 8.7, Action, Adventure, Fantasy 
-
-The Matrix, 1999, 8.7, Action, Sci-Fi 
-
-Goodfellas, 1990, 8.7, Biography, Crime, Drama 
-
-One Flew Over the Cuckoo's Nest, 1975, 8.7, Drama 
-
-Se7en, 1995, 8.6, Crime, Drama, Mystery 
-
-Interstellar, 2014, 8.6, Adventure, Drama, Sci-Fi 
-
-The Silence of the Lambs, 1991, 8.6, Crime, Drama, Thriller 
-
-It's a Wonderful Life, 1946, 8.6, Drama, Family, Fantasy 
-
-Saving Private Ryan, 1998, 8.6, Drama, War 
-
-Spirited Away, 2001, 8.6, Animation, Adventure, Family 
-
-Parasite, 2019, 8.6, Comedy, Drama, Thriller 
-
-The Green Mile, 1999, 8.6, Crime, Drama, Fantasy 
-
-Léon: The Professional, 1994, 8.5, Action, Crime, Drama 
-
-The Lion King, 1994, 8.5, Animation, Adventure, Drama 
-
-The Usual Suspects, 1995, 8.5, Crime, Drama, Mystery 
-
-Terminator 2: Judgment Day, 1991, 8.5, Action, Sci-Fi 
-
-Back to the Future, 1985, 8.5, Adventure, Comedy, Sci-Fi 
-
-Gladiator, 2000, 8.5, Action, Adventure, Drama 
-
-The Departed, 2006, 8.5, Crime, Drama, Thriller 
-
-Whiplash, 2014, 8.5, Drama, Music 
-
-The Prestige, 2006, 8.5, Drama, Mystery, Sci-Fi 
-
-The Intouchables, 2011, 8.5, Biography, Comedy, Drama 
-
-American History X, 1998, 8.5, Crime, Drama 
-
-Casablanca, 1942, 8.5, Drama, Romance, War 
-
-Once Upon a Time in the West, 1968, 8.5, Western 
-
-Psycho, 1960, 8.5, Horror, Mystery, Thriller 
-
-City of God, 2002, 8.5, Crime, Drama 
-
-The Pianist, 2002, 8.5, Biography, Drama, Music 
-
-The Lives of Others, 2006, 8.4, Drama, Mystery, Thriller 
-
-Avengers: Infinity War, 2018, 8.4, Action, Adventure, Sci-Fi 
-
-The Great Dictator, 1940, 8.4, Comedy, Drama, War 
-
-Grave of the Fireflies, 1988, 8.4, Animation, Drama, War 
-
-Alien, 1979, 8.4, Horror, Sci-Fi 
-
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 1964, 8.4, Comedy, War 
-
-Oldboy, 2003, 8.4, Action, Drama, Mystery 
-
-Joker, 2019, 8.4, Crime, Drama, Thriller 
-
-Braveheart, 1995, 8.4, Biography, Drama, History 
-
-Toy Story, 1995, 8.3, Animation, Adventure, Comedy 
-
-The Wolf of Wall Street, 2013, 8.2, Biography, Comedy, Crime 
-
-Pan's Labyrinth, 2006, 8.2, Drama, Fantasy, War 
-
-The Terminator, 1984, 8.2, Action, Sci-Fi 
-
-The Truman Show, 1998, 8.2, Comedy, Drama, Sci-Fi 
-
-Blade Runner, 1982, 8.2, Action, Sci-Fi, Thriller 
-
-The Grand Budapest Hotel, 2014, 8.1, Adventure, Comedy, Crime 
-
-Gone Girl, 2014, 8.1, Drama, Mystery, Thriller 
-
-Catch Me If You Can, 2002, 8.1, Biography, Crime, Drama 
-
-Inside Out, 2015, 8.1, Animation, Adventure, Comedy 
-
-The Secret Life of Walter Mitty, 2013, 7.9, Adventure, Comedy, Drama 
-
-Life of Pi, 2012, 7.9, Adventure, Drama, Fantasy 
-
-The Help, 2011, 8.1, Drama 
-
-Moneyball, 2011, 7.6, Biography, Drama, Sport 
-
-The Pursuit of Happyness, 2006, 8.0, Biography, Drama 
-
-Slumdog Millionaire, 2008, 8.0, Drama, Romance 
-
-The Girl with the Dragon Tattoo, 2011, 7.8, Crime, Drama, Mystery 
-
-Arrival, 2016, 7.9, Drama, Sci-Fi, Thriller 
-
-Jojo Rabbit, 2019, 7.9, Comedy, Drama, War 
-
-Django Unchained, 2012, 8.4, Drama, Western 
-
-The Revenant, 2015, 8.0, Action, Adventure, Drama 
-
-Ex Machina, 2014, 7.7, Drama, Sci-Fi, Thriller 
-
-A Beautiful Mind, 2001, 8.2, Biography, Drama 
-
-The Social Network, 2010, 7.7, Biography, Drama 
-
-Black Swan, 2010, 8.0, Drama, Thriller 
-
-Knives Out, 2019, 7.9, Comedy, Crime, Drama 
-
-Prisoners, 2013, 8.1, Crime, Drama, Mystery 
-
-The Big Short, 2015, 7.8, Biography, Comedy, Drama 
-
-La La Land, 2016, 8.0, Comedy, Drama, Music 
-
-Ford v Ferrari, 2019, 8.1, Action, Biography, Drama 
-
-Jaws, 1975, 8.1, Adventure, Thriller 
-
-The Theory of Everything, 2014, 7.7, Biography, Drama, Romance 
-
-Eternal Sunshine of the Spotless Mind, 2004, 8.3, Drama, Romance, Sci-Fi 
-
-Requiem for a Dream, 2000, 8.3, Drama 
-
-Mad Max: Fury Road, 2015, 8.1, Action, Adventure, Sci-Fi 
-
-The Shape of Water, 2017, 7.3, Adventure, Drama, Fantasy 
-
-The Imitation Game, 2014, 8.0, Biography, Drama, Thriller 
-
-Birdman, 2014, 7.7, Comedy, Drama 
-
-Moonlight, 2016, 7.4, Drama 
-
-The Lighthouse, 2019, 7.4, Drama, Fantasy, Horror 
-
-The Irishman, 2019, 7.8, Biography, Crime, Drama 
-
-Manchester by the Sea, 2016, 7.8, Drama 
-
-Little Women, 2019, 7.9, Drama, Romance 
-
-Her, 2013, 8.0, Drama, Romance, Sci-Fi 
-
-Once Upon a Time in Hollywood, 2019, 7.6, Comedy, Drama 
-
-Logan, 2017, 8.1, Action, Drama, Sci-Fi 
-
-Judy, 2019, 6.8, Biography, Drama, Music 
-
-Captain Phillips, 2013, 7.8, Biography, Crime, Drama 
-
-Fantastic Mr. Fox, 2009, 7.9, Animation, Adventure, Comedy 
-
-Doctor Strange, 2016, 7.5, Action, Adventure, Fantasy 
-
-1917, 2019, 8.3, Action, Drama, War 
+Title,Year,IMDb Rating,Genre
+The Shawshank Redemption,1994,9.3,Drama
+The Godfather,1972,9.2,Crime
+The Dark Knight,2008,9.0,Action
+Schindler's List,1993,9.0,Biography
+12 Angry Men,1957,9.0,Crime
+The Lord of the Rings: The Return of the King,2003,8.9,Adventure
+Pulp Fiction,1994,8.9,Crime
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Adventure
+The Good, the Bad and the Ugly,1966,8.8,Western
+Forrest Gump,1994,8.8,Drama
+Inception,2010,8.8,Sci-Fi
+The Lord of the Rings: The Two Towers,2002,8.7,Adventure
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Fantasy
+The Matrix,1999,8.7,Sci-Fi
+Goodfellas,1990,8.7,Crime
+One Flew Over the Cuckoo's Nest,1975,8.7,Drama
+Se7en,1995,8.6,Mystery
+Interstellar,2014,8.6,Sci-Fi
+The Silence of the Lambs,1991,8.6,Thriller
+It's a Wonderful Life,1946,8.6,Fantasy
+Saving Private Ryan,1998,8.6,War
+Spirited Away,2001,8.6,Animation
+Parasite,2019,8.6,Thriller
+The Green Mile,1999,8.6,Fantasy
+Léon: The Professional,1994,8.5,Action
+The Lion King,1994,8.5,Animation
+The Usual Suspects,1995,8.5,Mystery
+Terminator 2: Judgment Day,1991,8.5,Sci-Fi
+Back to the Future,1985,8.5,Sci-Fi
+Gladiator,2000,8.5,Action
+The Departed,2006,8.5,Thriller
+Whiplash,2014,8.5,Music
+The Prestige,2006,8.5,Mystery
+The Intouchables,2011,8.5,Comedy
+American History X,1998,8.5,Drama
+Casablanca,1942,8.5,Romance
+Once Upon a Time in the West,1968,8.5,Western
+Psycho,1960,8.5,Horror
+City of God,2002,8.5,Crime
+The Pianist,2002,8.5,Biography
+The Lives of Others,2006,8.4,Thriller
+Avengers: Infinity War,2018,8.4,Action
+The Great Dictator,1940,8.4,Comedy
+Grave of the Fireflies,1988,8.4,Animation
+Alien,1979,8.4,Horror
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,Comedy
+Oldboy,2003,8.4,Mystery
+Joker,2019,8.4,Drama
+Braveheart,1995,8.4,Biography
+Toy Story,1995,8.3,Animation
+The Wolf of Wall Street,2013,8.2,Comedy
+Pan's Labyrinth,2006,8.2,Fantasy
+The Terminator,1984,8.2,Action
+The Truman Show,1998,8.2,Sci-Fi
+Blade Runner,1982,8.2,Sci-Fi
+The Grand Budapest Hotel,2014,8.1,Comedy
+Gone Girl,2014,8.1,Mystery
+Catch Me If You Can,2002,8.1,Biography
+Inside Out,2015,8.1,Animation
+The Secret Life of Walter Mitty,2013,7.9,Adventure
+Life of Pi,2012,7.9,Fantasy
+The Help,2011,8.1,Drama
+Moneyball,2011,7.6,Sport
+The Pursuit of Happyness,2006,8.0,Biography
+Slumdog Millionaire,2008,8.0,Drama
+The Girl with the Dragon Tattoo,2011,7.8,Mystery
+Arrival,2016,7.9,Sci-Fi
+Jojo Rabbit,2019,7.9,Comedy
+Django Unchained,2012,8.4,Western
+The Revenant,2015,8.0,Adventure
+Ex Machina,2014,7.7,Sci-Fi
+A Beautiful Mind,2001,8.2,Biography
+The Social Network,2010,7.7,Biography
+Black Swan,2010,8.0,Thriller
+Knives Out,2019,7.9,Mystery
+Prisoners,2013,8.1,Mystery
+The Big Short,2015,7.8,Biography
+La La Land,2016,8.0,Music
+Ford v Ferrari,2019,8.1,Biography
+Jaws,1975,8.1,Thriller
+The Theory of Everything,2014,7.7,Biography
+Eternal Sunshine of the Spotless Mind,2004,8.3,Romance
+Requiem for a Dream,2000,8.3,Drama
+Mad Max: Fury Road,2015,8.1,Action
+The Shape of Water,2017,7.3,Fantasy
+The Imitation Game,2014,8.0,Biography
+Birdman,2014,7.7,Drama
+Moonlight,2016,7.4,Drama
+The Lighthouse,2019,7.4,Horror
+The Irishman,2019,7.8,Crime
+Manchester by the Sea,2016,7.8,Drama
+Little Women,2019,7.9,Romance
+Her,2013,8.0,Sci-Fi
+Once Upon a Time in Hollywood,2019,7.6,Comedy
+Logan,2017,8.1,Action
+Judy,2019,6.8,Biography
+Captain Phillips,2013,7.8,Biography
+Fantastic Mr. Fox,2009,7.9,Animation
+Doctor Strange,2016,7.5,Fantasy
+1917,2019,8.3,War
